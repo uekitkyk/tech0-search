@@ -1,0 +1,307 @@
+[
+  {
+    "id": 1,
+    "title": "営業店DX推進レポート",
+    "url": "https://kb.techzeron-bank.example/dx-report",
+    "description": "窓口業務のペーパーレス化で事務時間を30%削減したDXプロジェクトの記録",
+    "keywords": [
+      "DX",
+      "営業店",
+      "業務効率"
+    ],
+    "author": "田中太郎",
+    "created_at": "2025-01-15",
+    "category": "事例"
+  },
+  {
+    "id": 2,
+    "title": "住宅ローン審査AI導入の検討",
+    "url": "https://kb.techzeron-bank.example/ai-screening",
+    "description": "AI事前審査で融資業務をDX化する企画提案",
+    "keywords": [
+      "AI",
+      "融資",
+      "審査"
+    ],
+    "author": "鈴木花子",
+    "created_at": "2025-01-16",
+    "category": "企画"
+  },
+  {
+    "id": 3,
+    "title": "法人融資 稟議書の書き方ガイド",
+    "url": "https://kb.techzeron-bank.example/ringi-guide",
+    "description": "法人融資の稟議書作成の標準手順とチェックリスト",
+    "keywords": [
+      "融資",
+      "稟議",
+      "法人"
+    ],
+    "author": "山本一郎",
+    "created_at": "2025-01-17",
+    "category": "業務マニュアル"
+  },
+  {
+    "id": 4,
+    "title": "AIチャットボットによる照会対応DX",
+    "url": "https://kb.techzeron-bank.example/chatbot-dx",
+    "description": "コールセンターにAIチャットボットを導入し照会対応を効率化したDX事例",
+    "keywords": [
+      "AI",
+      "DX",
+      "コールセンター"
+    ],
+    "author": "佐藤健太",
+    "created_at": "2025-01-18",
+    "category": "事例"
+  },
+  {
+    "id": 5,
+    "title": "全店DX推進ロードマップ2026",
+    "url": "https://kb.techzeron-bank.example/dx-roadmap",
+    "description": "勘定系刷新とデジタルチャネル強化を柱とする全店DX計画の概要",
+    "keywords": [
+      "DX",
+      "経営企画",
+      "デジタル"
+    ],
+    "author": "中村美咲",
+    "created_at": "2025-01-19",
+    "category": "企画"
+  },
+  {
+    "id": 6,
+    "title": "    動作確認テスト",
+    "url": "    https://example.com",
+    "description": "    登録機能の動作確認です",
+    "keywords": [
+      "テスト"
+    ],
+    "author": "    植木",
+    "created_at": "2026-09-06",
+    "category": "企画"
+  },
+  {
+    "id": 7,
+    "title": "DXセレクション2026",
+    "url": "https://www.meti.go.jp/policy/it_policy/investment/dx-selection/dx-selection.html",
+    "description": "中堅・中小企業等のモデルケースとなるDXの優良事例を選定する経済産業省の取組",
+    "keywords": [
+      "DX",
+      "中堅・中小企業",
+      "経営変革",
+      "デジタルガバナンス"
+    ],
+    "author": "経済産業省",
+    "created_at": "2026-09-06",
+    "category": "事例"
+  },
+  {
+    "id": 8,
+    "title": "DX推進指標",
+    "url": "https://www.ipa.go.jp/digital/dx-suishin/index.html",
+    "description": "企業がDX推進の現状や課題を自己診断し、関係者で認識を共有して具体的なアクションにつなげるための指標",
+    "keywords": [
+      "DX",
+      "DX推進指標",
+      "自己診断",
+      "経営変革",
+      "デジタルガバナンス"
+    ],
+    "author": "IPA",
+    "created_at": "2026-09-06",
+    "category": "業務マニュアル"
+  },
+  {
+    "id": 9,
+    "title": "デジタルガバナンス・コード",
+    "url": "https://www.meti.go.jp/policy/it_policy/investment/dgc/dgc.html",
+    "description": "経営者に求められる企業価値向上に向けたDXの実践事項を整理した経済産業省の指針",
+    "keywords": [
+      "DX",
+      "デジタルガバナンス",
+      "経営戦略",
+      "企業価値",
+      "DX認定"
+    ],
+    "author": "経済産業省",
+    "created_at": "2026-09-06",
+    "category": "企画"
+  },
+  {
+    "id": 10,
+    "title": "DX認定制度",
+    "url": "https://www.ipa.go.jp/digital/dx-nintei/about.html",
+    "description": "DX推進の準備が整っている企業を国が認定する制度。デジタルガバナンス・コードの基本的事項への対応状況を確認する",
+    "keywords": [
+      "DX",
+      "DX認定",
+      "経営戦略",
+      "デジタルガバナンス",
+      "中堅・中小企業"
+    ],
+    "author": "IPA",
+    "created_at": "2026-09-06",
+    "category": "企画"
+  },
+  {
+    "id": 11,
+    "title": "AI事業者ガイドライン",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/20240419_report.html",
+    "description": "AIの開発・提供・利用に関わる事業者が、安全安心なAI活用に向けて取り組むべき事項を整理したガイドライン",
+    "keywords": [
+      "AI",
+      "生成AI",
+      "AIガバナンス",
+      "リスク管理",
+      "AI活用"
+    ],
+    "author": "経済産業省・総務省",
+    "created_at": "2026-09-06",
+    "category": "業務マニュアル"
+  },
+  {
+    "id": 12,
+    "title": "SINIC理論",
+    "url": "https://www.omron.com/jp/ja/about/corporate/vision/sinic/",
+    "description": "科学・技術・社会の相互関係から未来社会を予測するオムロン独自の未来予測理論",
+    "keywords": [
+      "SINIC理論",
+      "未来予測",
+      "社会変化",
+      "技術革新",
+      "自律社会"
+    ],
+    "author": "オムロン",
+    "created_at": "2026-09-06",
+    "category": "企画"
+  },
+  {
+    "id": 13,
+    "title": "デジタルスキル標準",
+    "url": "https://www.meti.go.jp/policy/it_policy/jinzai/skill_standard/main.html",
+    "description": "DXを推進する人材に必要なスキルや学習項目を整理し、企業の人材育成や個人の学びの指針として活用するための標準",
+    "keywords": [
+      "DX",
+      "AI",
+      "DX推進人材",
+      "人材育成",
+      "デジタルスキル"
+    ],
+    "author": "経済産業省・IPA",
+    "created_at": "2026-09-06",
+    "category": "研修"
+  },
+  {
+    "id": 14,
+    "title": "中堅・中小企業等向けDX推進の手引き",
+    "url": "https://www.meti.go.jp/policy/it_policy/investment/dx-chukenchushotebiki/dx-chukenchushotebiki.html",
+    "description": "中堅・中小企業等がDXを進める際の考え方や具体的なアクション、実際の企業事例などを整理した手引き",
+    "keywords": [
+      "DX",
+      "中堅・中小企業",
+      "DX戦略",
+      "経営変革",
+      "DX推進"
+    ],
+    "author": "経済産業省",
+    "created_at": "2026-09-06",
+    "category": "業務マニュアル"
+  },
+  {
+    "id": 15,
+    "title": "AIエージェントによる業務変革",
+    "url": "https://openai.com/ja-JP/solutions/use-case/agents/",
+    "description": "AIエージェントを活用し、複数のステップからなる業務を自律的に実行・支援する新しい働き方",
+    "keywords": [
+      "AI",
+      "AIエージェント",
+      "生成AI",
+      "業務改革",
+      "自動化"
+    ],
+    "author": "OpenAI",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 16,
+    "title": "AIエージェントと新しい働き方",
+    "url": "https://openai.com/business/workspace-agents/",
+    "description": "AIエージェントを組織の業務に組み込み、人とAIが協働しながら仕事を進める新しいワークスタイル",
+    "keywords": [
+      "AI",
+      "AIエージェント",
+      "AX",
+      "働き方改革",
+      "人とAIの協働"
+    ],
+    "author": "OpenAI",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 17,
+    "title": "DX白書",
+    "url": "https://www.ipa.go.jp/publish/wp-dx/",
+    "description": "日本企業のDXの取組状況や人材、技術、企業変革などについて調査・分析し、DX推進の現状と課題を整理した資料",
+    "keywords": [
+      "DX",
+      "AI",
+      "デジタル人材",
+      "企業変革",
+      "DX戦略"
+    ],
+    "author": "IPA",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 18,
+    "title": "AIエージェント構築のための新しいツール",
+    "url": "https://openai.com/ja-JP/index/new-tools-for-building-agents/",
+    "description": "AIが情報検索やツール操作などを組み合わせ、複雑なタスクを実行するエージェントを構築するための考え方と技術",
+    "keywords": [
+      "AI",
+      "AIエージェント",
+      "エージェンティックAI",
+      "自動化",
+      "業務改革"
+    ],
+    "author": "OpenAI",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 19,
+    "title": "DX銘柄",
+    "url": "https://www.meti.go.jp/policy/it_policy/investment/keiei_meigara/dx_meigara.html",
+    "description": "デジタル技術を活用してビジネスモデルや経営を変革し、企業価値向上につなげている企業を選定する取組",
+    "keywords": [
+      "DX",
+      "経営変革",
+      "企業価値",
+      "DX戦略",
+      "デジタル経営"
+    ],
+    "author": "経済産業省",
+    "created_at": "2026-09-06",
+    "category": "事例"
+  },
+  {
+    "id": 20,
+    "title": "企業のデジタルトランスフォーメーション（DX）",
+    "url": "https://www.meti.go.jp/policy/it_policy/investment/dx.html",
+    "description": "企業がデジタル技術を活用してビジネスモデルや組織、業務を変革し、競争力を高めるための経済産業省のDX施策",
+    "keywords": [
+      "DX",
+      "デジタルトランスフォーメーション",
+      "経営変革",
+      "デジタル経営",
+      "企業変革"
+    ],
+    "author": "経済産業省",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  }
+]
